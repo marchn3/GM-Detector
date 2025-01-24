@@ -1,0 +1,3 @@
+This repository contains Python code for a Geiger-Müller radiation detector project. It features two scripts: a simple console application that outputs counts per minute (CPM) and dose rate, and a more advanced analytics application with a graphical user interface (GUI) that visualizes radiation data in real-time. Additionally, it includes Arduino code that controls the GM detector, adapted from an existing repository given below, with modifications for LED and buzzer functionality. This project was developed for the Department of Energy's consent-based siting initiatives.
+
+Arduino Code Repository: https://github.com/SensorsIot/Geiger-Counter-RadiationD-v1.1-CAJOE-
